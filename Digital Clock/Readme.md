@@ -5,7 +5,6 @@ A sleek, modern digital clock with a glassmorphism effect, built using HTML, CSS
 ![Clock Preview](preview.png)
 
 ## 🚀 Features
-
 - Stunning glassmorphism design with smooth gradients and soft shadows  
 - Responsive layout  
 - Hover animations for a dynamic feel  
